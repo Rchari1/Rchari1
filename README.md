@@ -45,6 +45,6 @@ Books are a window to countless different worlds and perspectives. Here are a co
 
 - [**Looking for Alaska**](https://www.goodreads.com/book/show/99561.Looking_for_Alaska) by John Green: An insightful and moving young adult novel that delves into the themes of coming-of-age, love, loss, and the quest for meaning.
 
-- [**Nyxia**]([https://www.goodreads.com/book/show/32075671-nyxia](https://www.goodreads.com/en/book/show/27426044)) by Scott Reintgen: A gripping and thought-provoking science fiction tale full of adventure, mystery, and the ethical quandaries of technological advancement.
+- [**Nyxia**]([https://www.goodreads.com/book/show/32075671-nyxia) by Scott Reintgen: A gripping and thought-provoking science fiction tale full of adventure, mystery, and the ethical quandaries of technological advancement.
 
 
