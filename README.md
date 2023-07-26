@@ -4,8 +4,6 @@
 [![Discord Badge](https://img.shields.io/badge/-Raghav%239151-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Raghav#9151)
 [![Mail Badge](https://img.shields.io/badge/-rchari1%40tennessee.edu-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rchari1@tennessee.edu)](mailto:rchari1@tennessee.edu)
 [![GitHub Badge](https://img.shields.io/badge/-Rchari1-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rchari1)](https://github.com/Rchari1)
-[![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
-
 
 
 - Physics student at the University of Tennessee, Knoxville
@@ -17,6 +15,10 @@ Currently, I am working towards my B.S. in Physics and I am particularly interes
 ## My Projects
 
 **Fast Explicit Neutrino Networks (FENN)** - A C++ based high performance code designed for simulating neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
+
+## CV
+
+Check out my CV here: [![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
 
 ## Publications
 
