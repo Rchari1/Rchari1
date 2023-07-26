@@ -21,9 +21,6 @@ For more details about my academic and professional journey, feel free to [![Dow
 
 **Fast Explicit Neutrino Networks (FENN)** - A C++ based high performance code designed for simulating neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
 
-## CV
-
-Check out my CV here: [![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
 
 ## Publications
 
