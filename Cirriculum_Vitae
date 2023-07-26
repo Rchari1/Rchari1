@@ -1,1 +1,161 @@
+\documentclass[10pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+\usepackage[scale=0.87]{geometry}
+\usepackage{url} % This line might not be necessary as url is usually loaded with hyperref or moderncv
+\renewcommand{\UrlFont}{\bfseries} % This line makes your URLs bold.
+
+
+% Packages
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+
+% Font 
+\usepackage{raleway}
+\renewcommand{\familydefault}{\sfdefault}
+
+
+
+% Personal Data
+\name{Raghav}{Chari}
+\title{Curriculum Vitae}
+\address{Knoxville, TN}
+\email{rchari1@tennessee.edu}
+\homepage{github.com/Rchari1}{}
+\social[linkedin]{raghav-chari}
+
+% CV starts here
+\begin{document}
+\makecvtitle
+
+
+% Education
+\section{Education}
+
+\cventry{Expected Graduation: December 2024}{(B.S.) Bachelor of Science in Physics, Honors-Track}{The University of Tennessee, Knoxville}{Knoxville, TN}{}{}
+
+\section{Citizenship}
+\cventry{}{United States \& Canada}{}{}{}{}
+
+%\section{Research Interests}
+%\cvitem{}{High Performance Computing, Polluted Black Holes, Neutrino Transport, Accretion Disks}
+
+% Professional Skills
+\section{Professional Skills}
+\cvitem{Programming}{C++, C, Python, CUDA, MATLAB, Fortran, Linux}
+\cvitem{Computational}{High Performance Computing (HPC), Numerical Simulations, GPU and CPU Programming, Parallel Computing, Scalability Testing, Benchmarking, Algorithm Optimization, Computing Clusters}
+
+% Software 
+\section{Physics Software Developed}
+\begin{itemize}[leftmargin=*]
+\item \underline{F}ast \underline{E}xplicit \underline{N}eutrino \underline{N}etworks (FENN): FENN is a C++ based software suite designed for simulating neutrino networks. It provides efficient numerical solutions by using algebraically stabilized explicit methods, showing significant improvements in computational efficiency and scalability. Leveraging GPU acceleration, it executes large-scale thermonuclear networks faster than conventional methods. Initially applied to astrophysical scenarios, FENN offers a new path for broader scientific applications, with the intent of becoming an open-source community resource. FENN is avaliable through my Github: \url{https://github.com/Rchari1/FENN}
+\end{itemize}
+
+% Publications
+\section{Publications}
+
+\subsection{Journal Papers}
+\begin{enumerate}
+\item Miroshnichenko, A.S.;
+\textbf{Chari, R.}; Danford, S.; Prendergast, P.;
+Aarnio, A.N.; Andronov, I.L.;
+Chinarova, L.L.; Lytle, A.;
+Amantayeva, A.; Gabitova, I.A.; et al.
+Searching for Phase-Locked
+Variations of the Emission-Line
+Profiles in Binary Be Stars. Galaxies
+2023, 11, 83. https://doi.org/10.3390/galaxies11040083
+\item Lackey-Stewart, A., Cole, A., \textbf{Chari, R}., Brey, N., K. G., Guidry, M. and Endeve, E. "Fast explicit solutions for astrophysical neutrino transport: Explicit asymptotic methods," Manuscript in preparation, 2023.
+\end{enumerate}
+
+\subsection{Conference Proceedings}
+\begin{enumerate}
+\item \textbf{Chari, R}., Cole, A., Guidry, M., "Neutrino Electron Scattering in Dense Astrophysical Environments: A New Frontier in Neutrino Transport," Book of Abstracts 2023 (https://indico.frib.msu.edu/event/58/contributions/1518/)
+\item Miroshnichenko, A., \textbf{Chari, R}., Aarnio, A., Danford, S., "Spectral History Of The Bright Be Star Omicron Aquarii," Bulletin of the AAS, 53(6), 2021.(https://baas.aas.org/pub/2021n6i316p06)
+\end{enumerate}
+
+
+% Research Experience
+\section{Research Experience}
+
+\cventry{September 2021 - Present}{Research Assistant and Fellow, Computational Astrophysics Group}{The University of Tennessee, Knoxville}{Knoxville, TN}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Worked under the mentorship of Professor Mike Guidry in developing computational algorithms for solving partial differential equations related to hydrodynamics, radiation transport, and thermonuclear reactions across multiple timescales.
+\item Awarded the Department summer fellowship in 2022, during which I developed "FENN" (Fast Explicit Neutrino Networks) as part of my fellowship. FENN is a high-performance c++ code that approximates the Neutrino Transport problem. Details of this development are referenced above.
+\item Worked on optimizing Neutrino Transport Algorithms for High Performance Computing (HPC) using algebraically stabilized explicit approximations and Implemented test cases for neutrino networks on GPU nodes through Oak Ridge National Labs SUMMIT Supercomputer.
+\end{itemize}
+}
+\newpage
+
+\cventry{Summer 2023}{Research Assistant, Computational Astrophysics}{Jet Propulsion Laboratory, California Institute of Technology}{Pasadena, CA}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Worked under the mentorship of Dr. Apurva Oza in developing the application of theories of stellar pollution, accretion disk dynamics, spallation reactions, and dust accretion to understand the accretion process of polluted Black Holes.
+\item Used numerical simulation and analytical model to examine the possible tidal disruption events and subsequent accretion disk formation, ultimately making robust predictions on spallation products' detectability.
+\item Developed extended models of accretion and spallation processes in the case of a simulated $10^{8} M_{\odot}$ Supermassive Black Hole utilizing a novel approach that expanded theories of accretion and spallation processes applied to icy exomoons.
+\end{itemize}
+}
+\vspace{-0.05pt}
+\cventry{September 2020 - July 2023}{Research Assistant, Observational Astronomy}{The University of North Carolina at Greensboro}{Greensboro, NC}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Conducted extensive spectral analysis over the course of 3 years to investigate the binarity of Be stars through spectroscopic analysis, identifying phase-locked variations in double-peaked emission-line profiles. Explored the temporal behavior of Balmer line profiles to detect orbital periods and provide insights into binary systems.
+\item Under the mentorship of Professor Anatoly Mirshnichenko, Co-authored a paper titled "Searching for Phase-Locked Variations in Binary Be Stars" published in the journal, "Galaxies". Analyzed 12 Be stars, confirming orbital periods in some systems and suggesting potential binarity in others, using spectro-astrometry, photometric monitoring, and peak intensity variations.
+\end{itemize}
+}
+\vspace{-0.05pt}
+\cventry{June 2021 - August 2021}{Research Intern, Experimental Particle Physics}{Wisconsin IceCube Particle Astrophysics Center}{Madison, WI}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Analyzed muons expelled from cosmic rays using the Cosmic Watch devices at the Wisconsin IceCube Particle Astrophysics Center, and conducted a study on the angular dependence of muon detection, utilizing Arduino software and data analysis techniques to investigate the angular dependence on muons.
+\end{itemize}
+}
+
+% Teaching Experience
+
+\section{Teaching Experience}
+
+\cventry{Fall 2022 - Present}{Undergraduate Teaching Assistant and Lab Assistant}{The University of Tennessee, Knoxville}{Knoxville, TN}{}{
+\begin{enumerate}[itemsep=3pt, parsep=2pt]
+\item Astronomy 151 and 153: A Journey through the Solar System Lecture and Lab (Fall 2022, Spring 2023, Fall 2023).
+\item Astronomy 152 and 154: Stars, Galaxies, and Cosmology Lecture and Lab (Fall 2022, Spring 2023, Fall 2023).
+%\item Astronomy 153 Lab (Fall 2022, Spring 2023).
+%\item Astronomy 154 Lab (Fall 2022, Spring 2023).
+\item Physics 221: Elements of Physics I (Spring 2023).
+\item Physics 222: Elements of Physics II (Spring 2023).
+\end{enumerate}
+}
+
+
+
+% Selected Presentations
+
+\section{Selected Talks}
+\begin{enumerate}[itemsep=3pt, parsep=2pt]
+\item {\textbf{Chari, R}., Guidry, M., Brey, N., Cole, A. (2022). New Approaches to Astrophysical Nucleosynthesis and Neutrino Transport in Stellar Explosions and Collisions. (University of Tennessee, Knoxville Department of Physics and Astronomy Fellowship Talk)}
+\item {\textbf{Chari, R}., Cole, A., Guidry, M., Endeve, E. (2023). An Explicit Method for Modeling Neutrino Electron Scattering in Core-Collapse Supernova. (University of Indiana Bloomington, Society of Physics Students Conference)}
+\end{enumerate}
+
+% Fellowships and Awards
+
+\section{Fellowships and Awards}
+\begin{enumerate}[itemsep=3pt, parsep=2pt]
+\item[6.] Society of Physics Students National Leadership Scholarship; May 2023
+\item[5.] Outstanding First-Year Physics Student Award; May 2022
+\item[4.] Research Fellowship in Physics; May 2022
+\item[3.] Robert Talley Physics Scholarship; May 2021
+\item[2.] Tennessee Explore Scholarship; December 2020
+\item[1.] Eagle Scout; October 2020
+\end{enumerate}
+
+% Outreach and Leadership
+
+\section{Leadership and Service}
+\begin{itemize}[leftmargin=*]
+\item \textbf{People of Color in Physics, Founder and President, 1 year} Established an inclusive initiative to amplify diverse voices in Physics, enhancing community engagement and equality. Our efforts led to the University of Tennessee hosting the National Society of Black Physicists Conference, a significant milestone in promoting diversity in science.
+\item \textbf{Carolinas District of Key Club, Kiwanis Key Club Committee, 5 years} Served as a student, and adult-volunteer on the Kiwanis Key Club Committee, an organization dedicated to volunteerism and leadership.
+\end{itemize}
+
+%\section{References}
+%\begin{itemize}[leftmargin=*]
+%\item Available upon Request
+%\end{itemize}
+\end{document}
 
