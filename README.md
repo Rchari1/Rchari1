@@ -26,7 +26,7 @@ You can reach me through the following platforms:
 - 📬 Email: [rchari1@tennessee.edu](mailto:rchari1@tennessee.edu)
 - 💼 LinkedIn: [Raghav Chari](https://www.linkedin.com/in/raghav-chari)
 - 🎧 Discord: Raghav#9151
-- 📄 Here's my [CV](<https://github.com/Rchari1/Rchari1/blob/main/Cirriculum_Vitae>)
+- 📄 Here's my [CV](<[https://github.com/Rchari1/Rchari1/blob/main/Cirriculum_Vitae](https://github.com/Rchari1/Rchari1/blob/main/Cirriculum_Vitae/Curriculum_Vitae%20(4).pdf)https://github.com/Rchari1/Rchari1/blob/main/Cirriculum_Vitae/Curriculum_Vitae%20(4).pdf>)
 
 
 
