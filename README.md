@@ -6,11 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-Rchari1-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rchari1)](https://github.com/Rchari1)
 
 
-- Physics student at the University of Tennessee, Knoxville
-- Undergraduate Research Assistant
-- Undergraduate Teaching Assistant
-
-Currently, I am working towards my B.S. in Physics and I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux.
+Currently, I am working towards my B.S. in Physics and I am Undergraduate Research Assistant at the University of Tennessee, Knoxville. I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux.
 
 For more details about my academic and professional journey, feel free to download my CV:                                                                           
 [![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
