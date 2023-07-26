@@ -3,7 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Raghav_Chari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-chari/)](https://www.linkedin.com/in/raghav-chari/) 
 [![Discord Badge](https://img.shields.io/badge/-Raghav%239151-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Raghav#9151)
 [![Mail Badge](https://img.shields.io/badge/-rchari1%40tennessee.edu-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rchari1@tennessee.edu)](mailto:rchari1@tennessee.edu)
-[![Download CV](https://img.shields.io/badge/-Download_CV-green?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Rchari1/Rchari1/raw/main/Cirriculum_Vitae/Curriculum_Vitae%20(4).pdf)
+[![Download CV](https://img.shields.io/badge/-Download_CV-green?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
+
 
 
 
