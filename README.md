@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Raghav Chari
+# Hello there! 👋 I'm Raghav
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raghav_Chari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-chari/)](https://www.linkedin.com/in/raghav-chari/) 
 [![Discord Badge](https://img.shields.io/badge/-Raghav%239151-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Raghav#9151)
