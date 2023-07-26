@@ -27,14 +27,16 @@ Currently, I am working towards my B.S. in Physics and I am particularly interes
 
 Check out more of my works in the [publications section](https://github.com/Rchari1?tab=publications) of my GitHub.
 
-## Get in Touch with Me
+## Connect with Me
 
-You can reach me through the following platforms:
+Feel free to connect with me through the icons at the top of this page. I'm always happy to meet new people and discuss ideas!
 
-- 📬 Email: [rchari1@tennessee.edu](mailto:rchari1@tennessee.edu)
-- 💼 LinkedIn: [Raghav Chari](https://www.linkedin.com/in/raghav-chari)
-- 🎧 Discord: Raghav#9151
-- 📄 Here's my [CV](<[>)
+## Recommended Reads
 
+Books are a window to countless different worlds and perspectives. Here are a couple of my favorites that I highly recommend:
+
+- [**Looking for Alaska**](https://www.goodreads.com/book/show/99561.Looking_for_Alaska) by John Green: An insightful and moving young adult novel that delves into the themes of coming-of-age, love, loss, and the quest for meaning.
+
+- [**Nyxia**](https://www.goodreads.com/book/show/32075671-nyxia) by Scott Reintgen: A gripping and thought-provoking science fiction tale full of adventure, mystery, and the ethical quandaries of technological advancement.
 
 
