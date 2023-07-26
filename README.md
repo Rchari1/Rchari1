@@ -10,7 +10,12 @@
 - Undergraduate Research Assistant
 - Undergraduate Teaching Assistant
 
-Currently, I am working towards my B.S. in Physics and I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux. Find more about my research and academic projects on [my GitHub](https://github.com/Rchari1).
+Currently, I am working towards my B.S. in Physics and I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux.
+
+## Curriculum Vitae
+
+For more details about my academic and professional journey, feel free to [![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/uc?export=download&id=126qFD4MoI7Ok73kn7A0UFHU5GGdrU38G)
+
 
 ## My Projects
 
