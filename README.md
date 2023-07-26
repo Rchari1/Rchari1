@@ -25,7 +25,15 @@ Currently, I am working towards my B.S. in Physics and I am particularly interes
 3. [Neutrino Electron Scattering in Dense Astrophysical Environments: A New Frontier in Neutrino Transport](https://indico.frib.msu.edu/event/58/contributions/1518/)
 4. [Spectral History Of The Bright Be Star Omicron Aquarii](https://baas.aas.org/pub/2021n6i316p06) 
 
-Check out more of my works in the [publications section](https://github.com/Rchari1?tab=publications) of my GitHub.
+## Conference Posters
+
+Check out some of my posters I presented at various conferences! 
+
+[![Poster1](https://img.shields.io/badge/Poster-Frontiers_in_Nuclear_Astrophysics-orange?style=flat-square)](https://drive.google.com/uc?export=download&id=16F4aEtwxXQFgAFIfXEqlq_r_kxAFJRMg)
+
+[![Poster2](https://img.shields.io/badge/Poster-Indiana_Bloomington_Conference-blue?style=flat-square)](https://drive.google.com/uc?export=download&id=1JsRh0a5dz3Pq1CFec38XivlyfY-X5Fav)
+
+[![Poster3](https://img.shields.io/badge/Poster-238th_American_Astronomical_Society_Meeting-green?style=flat-square)](https://drive.google.com/uc?export=download&id=1IPZFPbK_W6BCTLrqMuDwP4imxzNc7vtA)
 
 ## Connect with Me
 
