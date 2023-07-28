@@ -42,8 +42,8 @@ Feel free to connect with me through the icons at the top of this page. I'm alwa
 
 Books are a window to countless different worlds and perspectives. Here are a couple of my favorites that I highly recommend:
 
-- [**Looking for Alaska**](https://www.goodreads.com/book/show/99561.Looking_for_Alaska) by John Green: An insightful and moving young adult novel that delves into the themes of coming-of-age, love, loss, and the quest for meaning.
+- [**Looking for Alaska**](https://www.goodreads.com/book/show/99561.Looking_for_Alaska) by John Green: An insightful and philosophical novel that delves into the themes of love, loss, and the quest for meaning.
 
-- [**Nyxia**](https://www.goodreads.com/en/book/show/27426044) by Scott Reintgen: A gripping and thought-provoking science fiction tale full of adventure, mystery, and the ethical quandaries of technological advancement.
+- [**Nyxia**](https://www.goodreads.com/en/book/show/27426044) by Scott Reintgen: A thought-provoking science fiction trilogy full of adventure, mystery, and the ethical quandaries of technological advancement.
 
 
