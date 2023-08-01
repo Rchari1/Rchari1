@@ -9,7 +9,8 @@
 Currently, I am working towards my B.S. in Physics and I am Undergraduate Research Assistant at the University of Tennessee, Knoxville. I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux.
 
 For more details about my academic and professional journey, feel free to download my CV:                                                                           
-[![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://drive.google.com/file/d/1o10YctUFXN7MQ0fy7sOkxThBzgb8JExF/view?usp=sharing)
+[![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Rchari1/Rchari1/main/Curriculum_Vitae%20(5).pdf)
+
 
 
 
