@@ -18,7 +18,7 @@ For more details about my academic and professional journey, feel free to downlo
 
 **Fast Explicit Neutrino Networks (FENN)** - A C++ based high performance code designed for simulating neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
 
-**Polluted Black Hole Accretion Code (PoBHAC)** - A Python based numerical code designed to investigate polluted Black Hole accretion. Using advanced simulations, it explores tidal disruption and accretion disk formation, and predicts detectable spallation products to deepen our understanding of stellar pollution. [Check it out](https://github.com/Rchari1/PoBHAC)
+**Polluted Black Hole Accretion Code (PoBHAC)** - A Python based numerical code designed to investigate polluted Black Hole accretion. Using advanced simulations, it aims to deepen our understanding of stellar pollution. [Check it out](https://github.com/Rchari1/PoBHAC)
 
 
 ## Publications
