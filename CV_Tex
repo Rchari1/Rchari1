@@ -1,0 +1,180 @@
+\documentclass[10pt,a4paper,sans]{moderncv}
+\moderncvstyle{banking}
+\moderncvcolor{blue}
+\usepackage[scale=0.94]{geometry}
+\usepackage{url} % This line might not be necessary as url is usually loaded with hyperref or moderncv
+\renewcommand{\UrlFont}{\bfseries} % This line makes your URLs bold.
+
+
+% Packages
+\usepackage{enumitem}
+\usepackage{fontawesome5}
+
+% Font 
+\usepackage{raleway}
+\renewcommand{\familydefault}{\sfdefault}
+
+
+
+% Personal Data
+\name{Raghav}{Chari}
+\title{Curriculum Vitae}
+\address{Knoxville, TN}
+\email{rchari1@tennessee.edu}
+\social[linkedin]{raghav-chari}
+\social[github]{Rchari1}
+\extrainfo{Citizenship: United States \& Canada}
+
+
+% CV starts here
+\begin{document}
+\makecvtitle
+
+
+
+\section{Education}
+
+\cventry
+{Expected Graduation: December 2024}
+{Bachelor of Science - B.S. in Physics, Honors-Track} 
+{The University of Tennessee, Knoxville}
+{Knoxville, TN}
+{}
+{
+\begin{itemize}
+\item \textit{Thesis Advisor: Professor Mike Guidry}
+\item \textit{Relevant Coursework: Quantum Mechanics, Calculus III, Thermal Physics, Classical Mechanics, Number Theory, Differential Equations}
+\end{itemize}
+}
+
+
+% Publications
+\section{Publications}
+
+\subsection{Refereed Journal Papers}
+\begin{enumerate}
+\item Miroshnichenko, A.S., \textbf{Chari, R.}, Danford, S., Prendergast, P., Aarnio, A.N., Andronov, I.L., Chinarova, L.L., Lytle, A., Amantayeva, A., Gabitova, I.A., et al. (2023). Searching for Phase-Locked Variations of the Emission-Line Profiles in Binary Be Stars. Galaxies, 11, 83. $|$ \emph{\href{https://doi.org/10.3390/galaxies11040083}{\color{blue}DOI: 10.3390/galaxies11040083}}
+
+\item Lackey-Stewart, A., Cole, A., \textbf{Chari, R}., Brey, N., K. G., Guidry, M. and Endeve, E. (2023). Fast explicit solutions for astrophysical neutrino transport: Explicit asymptotic methods. Manuscript in preparation.
+\end{enumerate}
+
+\subsection{Conference Proceedings}
+\begin{enumerate}
+\item \textbf{Chari, R}., Cole, A., Guidry, M. (2023). Neutrino Electron Scattering in Dense Astrophysical Environments: A New Frontier in Neutrino Transport. Book of Abstracts. $|$ \emph{\href{https://indico.frib.msu.edu/event/58/contributions/1518/}{\color{blue}Conference Proceeding}}
+
+\item Miroshnichenko, A., \textbf{Chari, R}., Aarnio, A., Danford, S. (2021). Spectral History Of The Bright Be Star Omicron Aquarii. Bulletin of the AAS, 53(6). $|$ \emph{\href{https://ui.adsabs.harvard.edu/abs/2021AAS...23831606M/abstract}{\color{blue}Conference Proceeding}}
+\end{enumerate}
+
+
+
+
+
+% Research Experience
+\section{Research Experience}
+
+\cventry{September 2021 - Present}{Research Assistant and Fellow, Computational Astrophysics Group}{The University of Tennessee, Knoxville}{Knoxville, TN}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Worked under the mentorship of Professor Mike Guidry in developing computational algorithms for solving partial differential equations related to hydrodynamics, radiation transport, and thermonuclear reactions across multiple timescales.
+\item Awarded the Department summer fellowship in 2022, during which I played a key role in developing "FENN" (Fast Explicit Neutrino Networks) as part of my fellowship. FENN is a high-performance c++ code that approximates the Neutrino Transport problem. Details of this development are referenced in Software developed.
+\item Worked on optimizing Neutrino Transport Algorithms for High Performance Computing (HPC) using algebraically stabilized explicit approximations and Implemented test cases for neutrino networks on GPU nodes through Oak Ridge National Labs SUMMIT Supercomputer.
+\end{itemize}
+}
+
+
+\cventry{March 2022 - Present}{Research Assistant, Computational Astrophysics}{Jet Propulsion Laboratory, California Institute of Technology}{Pasadena, CA}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Worked under the mentorship of Dr. Apurva Oza in developing the application of theories of stellar pollution, accretion disk dynamics, spallation reactions, and dust accretion to understand the accretion process of polluted Black Holes.
+\item Used numerical simulation and analytical model to examine the possible tidal disruption events and subsequent accretion disk formation, ultimately making robust predictions on spallation products' detectability.
+\item Developed extended models of accretion and spallation processes in the case of a simulated $10^{8} M_{\odot}$ Supermassive Black Hole utilizing a novel approach that expanded theories of accretion and spallation processes applied to icy exomoons.
+\end{itemize}
+}
+
+
+\vspace{-0.05pt}
+\cventry{September 2020 - July 2023}{Research Assistant, Astrophysics}{The University of North Carolina at Greensboro}{Greensboro, NC}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Conducted extensive spectral analysis over the course of 3 years to investigate the binarity of Be stars through spectroscopic analysis, identifying phase-locked variations in double-peaked emission-line profiles. Explored the temporal behavior of Balmer line profiles to detect orbital periods and provide insights into binary systems.
+\item Under the mentorship of Professor Anatoly Mirshnichenko, Co-authored a paper titled "Searching for Phase-Locked Variations in Binary Be Stars" published in the journal, "Galaxies". Analyzed 12 Be stars, confirming orbital periods in some systems and suggesting potential binarity in others, using spectro-astrometry, photometric monitoring, and peak intensity variations.
+\end{itemize}
+}
+\vspace{-0.05pt}
+\cventry{June 2021 - August 2021}{Research Intern,  Particle Astrophysics}{Wisconsin IceCube Particle Astrophysics Center}{Madison, WI}{}{
+\begin{itemize}[itemsep=0.5em]
+\item Analyzed muons expelled from cosmic rays using the Cosmic Watch devices at the Wisconsin IceCube Particle Astrophysics Center, and conducted a study on the angular dependence of muon detection, utilizing Arduino software and data analysis techniques to investigate the angular dependence on muons.
+\end{itemize}
+}
+
+%Software
+\section{Physics Software Developed}
+\begin{itemize}[leftmargin=*]
+\item \textbf{Fast Explicit Neutrino Networks (FENN)} $|$ \emph{\href{https://github.com/Rchari1/FENN}{\color{blue}GitHub}} $|$ C++
+\begin{itemize}
+\item FENN is a high performance C++ based software suite designed for solving large sets of coupled Differential Equations for Neutrino Electron Scattering (NES) at incredible speeds. It provides efficient numerical solutions by using algebraically stabilized explicit methods, showing significant improvements in computational efficiency and scalability to conventional implicit methods. FENN offers a new path for broader scientific applications, with the intent of becoming an open-source community resource.
+\end{itemize}
+\end{itemize}
+
+% \begin{itemize}[leftmargin=*]
+% \item \textbf{Polluted Black Hole Accretion Code (PoBHAC)} $|$ \emph{\href{https://github.com/Rchari1/PoBHAC}{\color{blue}GitHub}} $|$ C++
+% \begin{itemize}
+% \item The Polluted Black Hole Accretion Code (PoBHAC) is a fast C++ based computational program, developed to examine the accretion processes of polluted Black Holes. Utilizing advanced numerical simulations and models, PoBHAC investigates tidal disruption events and the formation of accretion disks. This code also enables the prediction of detectable spallation products, expanding our knowledge of stellar pollution.
+% \end{itemize}
+% \end{itemize}
+
+% Teaching Experience
+
+\section{Teaching Experience}
+
+\cventry{Fall 2022 - Present}{Undergraduate Teaching Assistant and Lab Assistant}{The University of Tennessee, Knoxville}{Knoxville, TN}{}{
+\begin{enumerate}[itemsep=3pt, parsep=2pt]
+\item Astronomy 151: A Journey through the Solar System Lecture and Lab (Fall 2022, Spring 2023, Fall 2023).
+\item Astronomy 152: Stars, Galaxies, and Cosmology Lecture and Lab (Fall 2022, Spring 2023, Fall 2023).
+\item Astronomy 153 Lab (Fall 2022, Spring 2023, Fall 2023).
+\item Astronomy 154 Lab (Fall 2022, Spring 2023, Fall 2023).
+\item Physics 221: Elements of Physics I (Spring 2023).
+\item Physics 222: Elements of Physics II (Spring 2023).
+\end{enumerate}
+}
+
+
+
+% Selected Presentations
+
+\section{Selected Talks}
+\begin{enumerate}[itemsep=3pt, parsep=2pt]
+\item {\textbf{Chari, R}., Guidry, M., Brey, N., Cole, A. (2022). New Approaches to Astrophysical Nucleosynthesis and Neutrino Transport in Stellar Explosions and Collisions. (University of Tennessee, Knoxville Department of Physics and Astronomy Fellowship Talk)}
+\item {\textbf{Chari, R}., Cole, A., Guidry, M., Endeve, E. (2023). An Explicit Method for Modeling Neutrino Electron Scattering in Core-Collapse Supernova. (University of Indiana Bloomington, Society of Physics Students Conference)}
+\end{enumerate}
+
+% Fellowships and Awards
+
+\section{Fellowships and Awards}
+\cvitem{May 2023}{Society of Physics Students National Leadership Scholarship}
+\cvitem{May 2022}{Outstanding First-Year Physics Student Award}
+\cvitem{May 2022}{Research Fellowship in Physics}
+\cvitem{May 2021}{Robert Talley Physics Scholarship}
+\cvitem{Dec 2020}{Tennessee Explore Scholarship}
+\cvitem{Oct 2020}{Eagle Scout}
+
+
+% Outreach and Leadership
+
+\section{Leadership and Service}
+\begin{itemize}[leftmargin=*]
+\item \textbf{People of Color in Physics, Founder and President} Established an inclusive initiative to amplify diverse voices in Physics, enhancing community engagement and equality. Our efforts led to the University of Tennessee hosting the National Society of Black Physicists Conference, a significant milestone in promoting diversity in science.
+\item \textbf{Carolinas District of Key Club, Kiwanis Key Club Committee} Served as a student, and adult-volunteer on the Kiwanis Key Club Committee for the past 5 years, an organization dedicated to volunteerism and leadership. Helped organize large events such as the Annual District Convention.
+\end{itemize}
+
+% Professional Skills
+\section{Professional Skills}
+\begin{itemize}
+\item \textbf{Programming Languages:} C++, C, Python, CUDA, MATLAB, Fortran
+\item \textbf{High Performance Computing (HPC):} Numerical Simulations, GPU and CPU Programming, Parallel Computing, Scalability Testing, Benchmarking, Algorithm Optimization, Computing Clusters
+\item \textbf{Languages:} English (Native), Tamil (Conversational)
+\end{itemize}
+
+
+%\section{References}
+%\begin{itemize}[leftmargin=*]
+%\item Available upon Request
+%\end{itemize}
+\end{document}
