@@ -6,7 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-Rchari1-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rchari1)](https://github.com/Rchari1)
 
 
-Currently, I am working towards my B.S. in Physics and I am Undergraduate Research Assistant at the University of Tennessee, Knoxville. I am particularly interested in computational astrophysics, high performance computing, and numerical simulations. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, Fortran, and Linux.
+Currently, I am working towards my B.S. in Physics and I am Undergraduate Research Assistant at the University of Tennessee, Knoxville. I am particularly interested in areas of theoretical astrophysics. My current work focuses in computational astrophysics, high performance computing, and numerical simulations of core-collapse Supernovae. I also work on polluted Black Holes, and "Be" stars. I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, and Fortran. 
 
 For more details about my academic and professional journey, feel free to download my CV:                                                                           
 [![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Rchari1/Rchari1/main/Curriculum_Vitae_Raghav_Chari%20(2).pdf)
