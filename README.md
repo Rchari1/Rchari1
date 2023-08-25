@@ -20,7 +20,7 @@ For more details about my academic and professional journey, feel free to downlo
 
 ## My Projects
 
-**Fast Explicit Neutrino Networks (FENN)** - A C++ based high performance code designed for simulating neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
+**Fast Explicit Neutrino Networks (FENN)** - A C++ based high performance codebase designed for solving neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
 
 
 ## Publications
