@@ -13,7 +13,8 @@ Currently, I am wokring towards my B.S. in Physics and concurrently working as a
 
 
 For more details about my academic and professional journey, feel free to download my CV:                                                                           
-[![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://raw.githubusercontent.com/Rchari1/Rchari1/main/Curriculum_Vitae_Raghav_Chari%20(2).pdf)
+[![Download CV](https://img.shields.io/badge/-Download_CV-2ea44f?style=flat-square&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/Rchari1/Rchari1/blob/main/Raghav_Chari.pdf)
+
 
 
 
