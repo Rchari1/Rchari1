@@ -28,7 +28,7 @@ For more details about my academic and professional journey, feel free to downlo
 ## Publications
 
 1. [Searching for Phase-Locked Variations of the Emission-Line Profiles in Binary Be Stars](https://doi.org/10.3390/galaxies11040083)
-2. "Fast explicit solutions for astrophysical neutrino transport: Explicit asymptotic methods," - Manuscript in preparation, 2023.
+2. [Fast explicit solutions for neutrino-electron scattering: Explicit asymptotic methods](https://arxiv.org/abs/2312.09090). - Preprint
 3. [Neutrino Electron Scattering in Dense Astrophysical Environments: A New Frontier in Neutrino Transport](https://indico.frib.msu.edu/event/58/contributions/1518/)
 4. [Spectral History Of The Bright Be Star Omicron Aquarii](https://baas.aas.org/pub/2021n6i316p06) 
 
