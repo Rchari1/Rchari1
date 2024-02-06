@@ -6,7 +6,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-Rchari1-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rchari1)](https://github.com/Rchari1)
 
 
-Currently, I am wokring towards my B.S. in Physics and concurrently working as an Undergraduate Research Assistant at the University of Tennessee, Knoxville. I am particularly interested in areas of theoretical astrophysics. My current work focuses in computational astrophysics, high performance computing, and numerical simulations of core-collapse Supernovae. I also work on numerical simulations of polluted Black Holes at Caltech Jet Propulsion Labratory. In High School my first research project was spectral analysis of "Be" stars at the UNC Greensboro Observatory! I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, and Fortran. 
+Currently, I am wokring towards my B.S. Physics & B.A Philosophy of Physics at the University of Tennessee, Knoxville. Concurrently working as an Undergraduate Research Assistant in collaboration with Oak Ridge National Labs. I am particularly interested in areas of theoretical astrophysics. My current work focuses in computational astrophysics, high performance computing, and numerical simulations of core-collapse Supernovae. I also work on numerical simulations of polluted Black Holes at Caltech Jet Propulsion Labratory. In High School my first research project was spectral analysis of "Be" stars at the UNC Greensboro Observatory! I'm experienced in various programming languages including C++, C, Python, CUDA, MATLAB, and Fortran. 
 
 
 
