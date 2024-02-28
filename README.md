@@ -1,7 +1,6 @@
 # Hello there! 👋 I'm Raghav
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raghav_Chari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raghav-chari/)](https://www.linkedin.com/in/raghav-chari/) 
-[![Discord Badge](https://img.shields.io/badge/-Raghav%239151-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/Raghav#9151)
 [![Mail Badge](https://img.shields.io/badge/-rchari1%40tennessee.edu-ea4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rchari1@tennessee.edu)](mailto:rchari1@tennessee.edu)
 [![GitHub Badge](https://img.shields.io/badge/-Rchari1-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Rchari1)](https://github.com/Rchari1)
 
