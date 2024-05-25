@@ -15,10 +15,26 @@ I have experience in various programming languages including C++, C, Python, CUD
 
 ---
 
-## My Projects
+## Research Interests
 
-🌟 **Fast Explicit Neutrino Networks (FENN)**  
-A C++ based high performance codebase designed for solving neutrino networks at incredible speeds. It offers a new path for broader scientific applications and is intended to become an open-source community resource. [Check it out](https://github.com/Rchari1/FENN)
+🔭 **Theoretical Astrophysics**  
+Exploring the fundamental forces and phenomena that shape our universe, from black holes to the Big Bang.
+
+💻 **Computational Astrophysics**  
+Developing and applying computational methods to simulate and understand complex astrophysical systems.
+
+🚀 **High-Performance Computing**  
+Utilizing cutting-edge computational power to solve large-scale problems in astrophysics and beyond.
+
+🌌 **Stellar Pollution and Accretion Disk Dynamics**  
+Formulating advanced computational models to understand the dynamics of polluted black holes and stellar systems.
+
+🔬 **Gravitational Lensing and Dark Matter**  
+Researching dark matter through gravitational lensing with pixel analysis for the Rubin Observatory.
+
+📚 **Philosophy of Physics**  
+Investigating space (time) from a philosophical perspective to understand the underlying principles of the universe.
+
 
 ---
 
