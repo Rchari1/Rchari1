@@ -60,36 +60,6 @@
 | 2023 | **Searching for Phase-Locked Variations of the Emission-Line Profiles in Binary Be Stars** | *Galaxies* | **Galaxies** · **Scholar** |
 | 2021 | **Spectral History of the Bright Be Star Omicron Aquarii** | *AAS 238 Abstract* | **AAS** · **Scholar** |
 
----
-
-## Abstracts
-
-<details>
-<summary><strong>🧮 2024 — Explicit Asymptotic Neutrino Networks (PRD / arXiv)</strong></summary>
-
-**What:** Algebraically stabilized explicit asymptotic integration for stiff neutrino–electron scattering networks.  
-**Why it matters:** Enables scalable, parallel-friendly integration for large PDE systems in CCSNe and mergers.  
-**Keywords:** explicit asymptotics · stiffness · neutrino transport · HPC
-
-</details>
-
-<details>
-<summary><strong>🌋 2025 — Volcanic Satellites Venting Na, K, SO₂ (MNRAS)</strong></summary>
-
-**What:** Atmospheric signatures from tidally heated satellites venting alkalis and SO₂, with optical/IR observables.  
-**Why it matters:** Connects geophysics + atmospheric chemistry + observational constraints (JWST/VLT context).  
-**Keywords:** exomoons · alkalis · SO₂ · atmospheric escape · radiative signatures
-
-</details>
-
-<details>
-<summary><strong>🌟 2023 — Phase-Locked Emission Line Variability in Binary Be Stars (Galaxies)</strong></summary>
-
-**What:** Phase-locked variations in emission-line profiles in binary Be star systems.  
-**Why it matters:** Links orbital dynamics to spectroscopic variability with time-series analysis.  
-**Keywords:** spectroscopy · binaries · Be stars · emission lines
-
-</details>
 
 ---
 
