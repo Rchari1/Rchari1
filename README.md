@@ -24,10 +24,7 @@
 |---:|---|---|
 | 2024 | Fast explicit solutions for neutrino–electron scattering: Explicit asymptotic methods | *Physical Review D* |
 | 2024 | Explicit Asymptotic Solutions of Neutrino Networks for Large Sets of Partial Differential Equations in CCSNe | *arXiv* |
-| 2025 | Enhancing capabilities of fast explicit solutions for neutrino–electron scattering | *AAS Meeting Abstracts (245)* |
-| 2025 | Quasi-Steady-State Approximation for Networks of Neutrinos in CCSNe | *AAS Meeting Abstracts (245)* |
 | 2025 | Explicit Asymptotic Methods Applied to Scaled Networks of Large Neutrino Networks | *AAS Meeting Abstracts (245)* |
-| 2024 | Controlled and Parallelizable Approximation for Evolution Populations and Neutrino Distributions in Stellar Explosions and Mergers | *AAS Meeting Abstracts (243)* |
 | 2024 | Advancing Astrophysical Models through FENN: Algebraically Stabilized Explicit Integration for Neutrino Electron Scattering | *AAS Meeting Abstracts (243)* |
 
 ---
