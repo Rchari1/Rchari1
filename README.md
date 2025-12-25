@@ -16,10 +16,21 @@
 
 ---
 
-## Research Focus
+<details>
+<summary><strong>🧮 Explicit Asymptotic Solutions of Neutrino Networks</strong> <em>(Physical Review D)</em></summary>
 
-```text
-Neutrino Transport & Reaction Networks
-Explicit Asymptotic & Quasi-Steady-State Methods
-Astrophysical & Exoplanetary Modeling
-High-Performance Scientific Computing
+**Raghav Chari et al. — 2025**
+
+**Core Contribution**  
+Algebraically stabilized explicit solvers for stiff neutrino–electron scattering networks, enabling scalable integration across large PDE systems.
+
+**Why it matters**  
+- Avoids implicit solvers  
+- Naturally parallelizable  
+- HPC-ready by design  
+
+**Links**  
+- 📄 arXiv: https://arxiv.org/abs/2409.03133  
+- 📘 Physical Review D 109, 103019
+
+</details>
