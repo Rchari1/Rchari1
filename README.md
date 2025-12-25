@@ -1,18 +1,18 @@
 <h1 align="center">Raghav Chari</h1>
 
 <p align="center">
-  <i>Computational Physics · HPC · Astrophysical Modeling</i>
+  <b>Computational Physics & Scientific Computing</b><br/>
+  <sub>Astrophysical Modeling · Neutrino Transport · HPC</sub>
 </p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=h7TggJAAAAAJ&hl=en&authuser=1">
-    <img src="https://img.shields.io/badge/Scholar-Publications-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" />
   </a>
   <a href="https://arxiv.org/search/?searchtype=author&query=Chari%2C+R">
-    <img src="https://img.shields.io/badge/arXiv-Preprints-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" />
+    <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
