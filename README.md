@@ -50,6 +50,6 @@
 ## Technical Stack
 
 ```text
-C++ · Python · Julia · MPI · Eigen · HDF5 · NumPy/SciPy
+C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
 Explicit Asymptotic Methods · Quasi-Steady-State Approximation · Monte Carlo
 Neutrino Transport · Astrophysical & Exoplanetary Modeling
