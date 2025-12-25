@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=XeD_OwYAAAAJ">
+  <a href="[https://scholar.google.com/citations?user=XeD_OwYAAAAJ](https://scholar.google.com/citations?user=h7TggJAAAAAJ&hl=en&authuser=1)">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white"/>
   </a>
   <a href="https://arxiv.org/search/?searchtype=author&query=Chari%2C+R">
@@ -24,10 +24,6 @@
 **Core Contribution**  
 Algebraically stabilized explicit solvers for stiff neutrino–electron scattering networks, enabling scalable integration across large PDE systems.
 
-**Why it matters**  
-- Avoids implicit solvers  
-- Naturally parallelizable  
-- HPC-ready by design  
 
 **Links**  
 - 📄 arXiv: https://arxiv.org/abs/2409.03133  
