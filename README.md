@@ -34,7 +34,8 @@
 
 ## 💻 Most Used Languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rchari1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rchari1&theme=github_dark)
+
 
 ```text
 C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
