@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Raghav+Chari;Computational+Physics+%26+Scientific+Computing;Astrophysical+Modeling+%C2%B7+ODE+Solvers+%C2%B7+HPC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Raghav+Chari" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">Raghav Chari</h1>
 <p align="center">
   <b>Computational Physics & Scientific Computing</b><br/>
   <sub>Astrophysical Modeling · ODE Solvers · HPC</sub>
@@ -20,7 +18,6 @@
     <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack
