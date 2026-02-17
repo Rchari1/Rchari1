@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Raghav+Chari;Computational+Physics+%26+Scientific+Computing;Astrophysical+Modeling+%C2%B7+ODE+Solvers+%C2%B7+HPC" alt="Typing SVG" />
+</p>
+
+
 <h1 align="center">Raghav Chari</h1>
 <p align="center">
   <b>Computational Physics & Scientific Computing</b><br/>
