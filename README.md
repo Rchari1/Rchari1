@@ -20,6 +20,10 @@
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%">
+
 **Languages & Tools:**
 ```text
 C++        ████████████░░░░░░░░░░  62%
@@ -27,12 +31,22 @@ Python     ████░░░░░░░░░░░░░░░░░░  2
 Julia      ███░░░░░░░░░░░░░░░░░░░  18%
 ```
 
+</td>
+<td width="50%">
+
 **Scientific Computing:**
 ```text
-MPI · OpenMP · CUDA · Eigen · NumPy/SciPy · HDF5
-Explicit Asymptotic Methods · QSSA · Monte Carlo
-Neutrino Transport · Astrophysical Modeling
+MPI · OpenMP · CUDA
+Eigen · NumPy/SciPy · HDF5
+Explicit Asymptotic Methods
+QSSA · Monte Carlo
+Neutrino Transport
+Astrophysical Modeling
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,18 +57,15 @@ Neutrino Transport · Astrophysical Modeling
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rchari1&theme=github_dark" width="400"/>
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rchari1&theme=github_dark" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="49%" />
 </p>
 
 ## 📈 Contribution Activity
 
-[![Rchari1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark" />
+</p>
 
 ---
 
