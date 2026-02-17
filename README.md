@@ -47,6 +47,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 ```text
 C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
 Explicit Asymptotic Methods · Quasi-Steady-State Approximation · Monte Carlo
