@@ -59,7 +59,18 @@ Neutrino Transport · Astrophysical Modeling
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Rchari1&theme=darkhub&no-frame=true&row=1&column=7" />
 </p>
----
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+## ⏰ Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rchari1&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
