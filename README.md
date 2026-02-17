@@ -22,26 +22,36 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-**Languages & Tools:**
+**Languages:**
 ```text
-C++        ████████████░░░░░░░░░░  62%
-Python     ████░░░░░░░░░░░░░░░░░░  20%
-Julia      ███░░░░░░░░░░░░░░░░░░░  18%
+C++     ████████████░░  62%
+Python  ████░░░░░░░░░░  20%
+Julia   ███░░░░░░░░░░░  18%
 ```
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
-**Scientific Computing:**
+**HPC & Parallel:**
 ```text
-MPI · OpenMP · CUDA
-Eigen · NumPy/SciPy · HDF5
-Explicit Asymptotic Methods
-QSSA · Monte Carlo
-Neutrino Transport
-Astrophysical Modeling
+MPI
+OpenMP
+CUDA
+Eigen
+```
+
+</td>
+<td width="33%" valign="top">
+
+**Methods & Tools:**
+```text
+NumPy/SciPy
+HDF5
+Asymptotic Methods
+QSSA
+Monte Carlo
 ```
 
 </td>
@@ -53,18 +63,18 @@ Astrophysical Modeling
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rchari1&theme=github_dark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rchari1&theme=github_dark" width="48.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="48.5%" />
 </p>
 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark" width="100%" />
 </p>
 
 ---
