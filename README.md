@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computational Physics & Scientific Computing</b><br/>
-  <sub>Astrophysical Modeling · Neutrino Transport · HPC</sub>
+  <sub>Astrophysical Modeling · ODE Solvers · HPC</sub>
 </p>
 
 <p align="center">
@@ -35,6 +35,16 @@
 ## 💻 Most Used Languages
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rchari1&theme=github_dark)
+
+## 📈 Contribution Activity
+
+[![Rchari1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rchari1&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
 
 
 ```text
