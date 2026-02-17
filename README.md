@@ -63,12 +63,6 @@ Neutrino Transport · Astrophysical Modeling
 </p>
 
 
-## ⏰ Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rchari1&theme=dark" />
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
