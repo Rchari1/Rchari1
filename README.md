@@ -16,41 +16,23 @@
 
 ---
 
-## Publications Index
+# Hi there! 👋
 
-### Neutrino Transport & Core-Collapse Supernovae
+## 📊 GitHub Stats
 
-| Year | Title | Venue |
-|---:|---|---|
-| 2024 | Fast explicit solutions for neutrino–electron scattering: Explicit asymptotic methods | *Physical Review D* |
-| 2024 | Explicit Asymptotic Solutions of Neutrino Networks for Large Sets of Partial Differential Equations in CCSNe | *arXiv* |
-| 2025 | Explicit Asymptotic Methods Applied to Scaled Networks of Large Neutrino Networks | *AAS Meeting Abstracts (245)* |
-| 2024 | Advancing Astrophysical Models through FENN: Algebraically Stabilized Explicit Integration for Neutrino Electron Scattering | *AAS Meeting Abstracts (243)* |
+![Rchari1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rchari1&show_icons=true&theme=dark&count_private=true)
 
----
+## 🔥 GitHub Streak
 
-### Exoplanets & Atmospheric Modeling
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark)](https://git.io/streak-stats)
 
-| Year | Title | Venue |
-|---:|---|---|
-| 2025 | Volcanic Satellites Tidally Venting Na, K, SO₂ in Optical & Infrared Light | *Monthly Notices of the Royal Astronomical Society* |
-| 2024 | Modeling the Meteoric Flux and Accretion of Silica (SiO₂) and Gases into Exoplanetary Atmospheres using 3-D Monte Carlo Simulations | *Bulletin of the American Physical Society* |
-
----
-
-### Stellar Spectroscopy
-
-| Year | Title | Venue |
-|---:|---|---|
-| 2023 | Searching for Phase-Locked Variations of the Emission-Line Profiles in Binary Be Stars | *Galaxies* |
-| 2021 | Spectral History of the Bright Be Star Omicron Aquarii | *AAS Meeting Abstracts (238)* |
-
----
-
-## Technical Stack
+## 📈 Contribution Graph
 
 [![Rchari1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rchari1&layout=compact&theme=dark)
 
 ```text
 C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
