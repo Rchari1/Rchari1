@@ -49,6 +49,9 @@
 
 ## Technical Stack
 
+[![Rchari1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ```text
 C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
 Explicit Asymptotic Methods · Quasi-Steady-State Approximation · Monte Carlo
