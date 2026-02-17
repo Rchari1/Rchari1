@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![Rchari1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rchari1&show_icons=true&theme=dark&count_private=true)
+![Rchari1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rchari1&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ## 🔥 GitHub Streak
 
@@ -32,7 +32,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rchari1&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rchari1&layout=compact&theme=dark&hide=html,css)
 
 ```text
 C++ · Python  · MPI · Eigen · HDF5 · NumPy/SciPy
