@@ -18,6 +18,7 @@
     <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat&logo=arxiv&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -62,21 +63,37 @@ Monte Carlo
 
 ---
 
-## 📊 GitHub Stats
+## 🔬 Research Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Numerical Methods
+- Stiff ODE solvers for astrophysical systems
+- Explicit asymptotic & quasi-steady-state methods
+- Adaptive timestep algorithms
+- Monte Carlo radiation transport
+
+</td>
+<td width="50%" valign="top">
+
+### Applications
+- Neutrino transport in supernovae
+- Core-collapse stellar modeling
+- Exoplanetary atmosphere simulations
+- High-energy astrophysics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rchari1&theme=github_dark" width="48.5%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="48.5%" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rchari1&theme=github-dark" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="60%" />
 </p>
 
 ---
