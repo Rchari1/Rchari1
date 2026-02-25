@@ -90,10 +90,10 @@ Monte Carlo
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rchari1&theme=dark" width="60%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" />
 </p>
 
 ---
