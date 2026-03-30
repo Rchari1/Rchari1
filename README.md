@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hey,%20I'm%20Raghav&fontSize=40&fontAlignY=35&animation=twinkling"/>
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -31,9 +28,6 @@
 
 ## 📊 Contribution Calendar
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/contribution-calendar?username=Rchari1&theme=github_dark" width="100%" alt="Raghav's GitHub Contribution Calendar" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" alt="Raghav's Overall GitHub Stats" />
