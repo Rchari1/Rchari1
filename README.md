@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=33A1DE&center=true&vCenter=true&width=800&height=100&lines=Hey,+I'm+Raghav!+%F0%9F%91%8B;NYC-based+SWE+%40+Harmoniqs;Pursuing+an+MA+in+Philosophy+of+Physics;Researching+black+holes+%26+building+ODE+solvers" alt="Typing Conversation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=33A1DE&center=true&vCenter=true&width=800&height=100&lines=Hi+Im+Raghav;Graduate+Student+in+Physics+and+Philosophy+at+NYU" alt="Typing Conversation" />
   </a>
 </p>
 
