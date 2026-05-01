@@ -1,10 +1,4 @@
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=2000&color=33A1DE&center=true&vCenter=true&width=800&height=100&lines=Hi+Im+Raghav!;Graduate+Student+in+Physics+and+Philosophy+at+NYU" alt="Typing Conversation" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
