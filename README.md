@@ -29,12 +29,14 @@ I specialize in the intersection of **Theoretical Physics** and **High-Performan
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rchari1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rchari1&show_icons=true&theme=transparent&title_color=57068c&text_color=ffffff&icon_color=57068c&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
 
-<p align="center">
-  <sub>"Please feel free to reach out at rc6116@nyu.edu"</sub>
-</p>
+### 🤝 Connect
+I’m always open to discussions. Whether you have a question about my work or want to collaborate on a complex problem, feel free to reach out!
+
+* **LinkedIn:** [in/raghav-chari](https://www.linkedin.com/in/raghav-chari/)
+* **Email:** [rc6116@nyu.edu](mailto:rc5243@nyu.edu)
