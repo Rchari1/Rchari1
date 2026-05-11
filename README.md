@@ -28,13 +28,6 @@ I specialize in the intersection of **Theoretical Physics** and **High-Performan
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rchari1&show_icons=true&theme=transparent&title_color=57068c&text_color=ffffff&icon_color=57068c&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🤝 Connect
 I’m always open to discussions. Whether you have a question about my work or want to collaborate on a complex problem, feel free to reach out!
 
