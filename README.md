@@ -1,5 +1,5 @@
 # Raghav Chari
-**Software Developer @ Harmoniqs | Physics & Philosophy Graduate Student @ NYU**
+**Physics & Philosophy Graduate Student @ NYU**
 
 I build high-performance systems at the intersection of quantum control, theoretical physics, and numerical optimization. My work focuses on translating complex physical models into efficient, scalable code.
 
@@ -31,7 +31,7 @@ I build high-performance systems at the intersection of quantum control, theoret
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rchari1&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
