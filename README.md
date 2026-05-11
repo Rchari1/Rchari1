@@ -1,24 +1,12 @@
-# Raghav Chari
-**Physics & Philosophy Graduate Student @ NYU**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=702983&text=Raghav%20Chari&height=100&fontSize=60" alt="Raghav Chari" />
+  <br/>
+  <b>Physics & Philosophy Graduate Student @ New York University</b>
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/NYU_Logo.svg" width="40" alt="NYU Logo" />
+</p>
 
-I build high-performance systems at the intersection of quantum control, theoretical physics, and numerical optimization. My work focuses on translating complex physical models into efficient, scalable code.
-
----
-
-### 🔬 Research & Engineering Focus
-* **Theoretical Physics:** Quantum error correction, Black Hole Information Paradox, and BSM physics.
-* **Scientific Computing:** High-performance numerical methods and astrophysical modeling.
-* **Quantum Software:** Developing control software for quantum systems.
-
-### 🛠 Tech Stack
-* **Languages:** C++, Python, Julia, C
-* **High-Performance Computing:** CUDA, MPI, OpenMP
-* **Frameworks & Tools:** PyTorch, NumPy, SciPy, Git, Linux (HPC environments)
-
----
-
-### 📈 Technical Impact
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/raghav-chari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,8 +18,24 @@ I build high-performance systems at the intersection of quantum control, theoret
   </a>
 </p>
 
+---
+
+### 🔬 Research & Engineering
+I specialize in the intersection of **Theoretical Physics** and **High-Performance Computing**. My current work involves:
+* **Quantum Information:** Exploring quantum error correction codes and the Black Hole Information Paradox.
+* **Numerical Methods:** Developing efficient simulations for astrophysical modeling and BSM physics.
+* **Systems:** Performance optimization using CUDA, MPI, and Julia.
+
+### 🛠 Technical Proficiency
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,py,julia,c,cuda,linux,git,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rchari1&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rchari1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
