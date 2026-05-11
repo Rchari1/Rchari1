@@ -1,7 +1,7 @@
 # Raghav Chari
 **Physics & Philosophy Graduate Student @ NYU**
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/raghav-chari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
