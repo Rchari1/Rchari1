@@ -36,5 +36,5 @@ I specialize in the intersection of **Theoretical Physics** and **High-Performan
 ---
 
 <p align="center">
-  <sub>"The aim of physics is not just to describe the world, but to provide the framework for its computation."</sub>
+  <sub>"Please feel free to reach out at rc6116@nyu.edu"</sub>
 </p>
