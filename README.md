@@ -1,12 +1,24 @@
+# Raghav Chari
+**Software Developer @ Harmoniqs | Physics & Philosophy Graduate Student @ NYU**
+
+I build high-performance systems at the intersection of quantum control, theoretical physics, and numerical optimization. My work focuses on translating complex physical models into efficient, scalable code.
 
 ---
 
-<p align="center">
-  <b>Explore my work</b><br/>
-  <sub>Astrophysical Modeling · HPC · Numerical Methods</sub>
-</p>
+### 🔬 Research & Engineering Focus
+* **Theoretical Physics:** Quantum error correction, Black Hole Information Paradox, and BSM physics.
+* **Scientific Computing:** High-performance numerical methods and astrophysical modeling.
+* **Quantum Software:** Developing control software for quantum systems.
 
-<p align="center">
+### 🛠 Tech Stack
+* **Languages:** C++, Python, Julia, C
+* **High-Performance Computing:** CUDA, MPI, OpenMP
+* **Frameworks & Tools:** PyTorch, NumPy, SciPy, Git, Linux (HPC environments)
+
+---
+
+### 📈 Technical Impact
+<p align="left">
   <a href="https://www.linkedin.com/in/raghav-chari/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -18,17 +30,12 @@
   </a>
 </p>
 
----
-
-## 📊 Contribution Calendar
-
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" alt="Raghav's Overall GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rchari1&theme=github_dark" width="100%" alt="GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <sub>"The aim of physics is not just to describe the world, but to provide the framework for its computation."</sub>
 </p>
