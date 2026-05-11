@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=702983&text=Raghav%20Chari&height=100&fontSize=60" alt="Raghav Chari" />
-  <br/>
-  <b>Physics & Philosophy Graduate Student @ New York University</b>
-  <br/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/NYU_Logo.svg" width="40" alt="NYU Logo" />
-</p>
+# Raghav Chari
+**Physics & Philosophy Graduate Student @ NYU**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raghav-chari/">
