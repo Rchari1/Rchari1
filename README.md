@@ -29,7 +29,7 @@ I specialize in the intersection of **Theoretical Physics** and **High-Performan
 ---
 
 ### 🤝 Connect
-I’m always open to discussions. Whether you have a question about my work or want to collaborate on a complex problem, feel free to reach out!
+Reach out to me!
 
 * **LinkedIn:** [in/raghav-chari](https://www.linkedin.com/in/raghav-chari/)
 * **Email:** [rc6116@nyu.edu](mailto:rc5243@nyu.edu)
