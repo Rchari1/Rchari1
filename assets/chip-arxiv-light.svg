@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="34" viewBox="0 0 82 34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="arxiv">
+  <rect x=".5" y=".5" width="81" height="33" rx="6" fill="#f6f8fa" stroke="#d1d9e0"/>
+  <circle cx="16" cy="17" r="3.5" fill="#0e7887"/>
+  <text x="30" y="22" fill="#1f2328" font-size="12.5">arxiv</text>
+</svg>
