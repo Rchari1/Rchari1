@@ -13,9 +13,3 @@
   </a>
 </p>
 
----
-
-### 🤝 Connect
-
-* **LinkedIn:** [in/raghav-chari](https://www.linkedin.com/in/raghav-chari/)
-* **Email:** [rc6116@nyu.edu](mailto:rc5243@nyu.edu)
